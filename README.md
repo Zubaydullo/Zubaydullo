@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Django, Python, Backend Development**
 
-- 📫 How to reach me **zubaydullo0022@gmail.com**
+- 📫 How to reach me **zubaycoder0022@gmail.com**
 
 <p align="left">
 </p>
