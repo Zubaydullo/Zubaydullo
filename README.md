@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zubaydullo</h1>
-<h3 align="center">A passionate backend developer from Uzbekistan</h3>
+<h3 align="center">A passionate Software Engineer from Uzbekistan</h3>
 
 - 💬 Ask me about **Django, Python, Backend Development**
 
