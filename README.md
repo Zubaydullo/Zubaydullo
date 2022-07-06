@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zubaydullo</h1>
 <h3 align="center">A passionate Developer from Uzbekistan</h3>
 
-- 💬 Ask me about **Django, Python, Backend Development**
+- 💬 Ask me about **Django, Python, Frontend Technologies like HTML, CSS, JS**
 
 - 📫 How to reach me **zubaycoder0022@gmail.com**
 
