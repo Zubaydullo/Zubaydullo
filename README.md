@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Zubaydullo Abdirakhmonov</h1>
 <h3 align="center">I'm an AI Engineer & Backend Developer</h3>
 
-<p align="left"> I'm an AI Engineer and Backend Developer with a passion for building intelligent, scalable systems. I specialize in developing robust backend architectures and integrating cutting-edge AI solutions to solve real-world problems.
-My work spans across:
+I'm an AI Engineer and Backend Developer with a passion for building intelligent, scalable systems. I specialize in developing robust backend architectures and integrating cutting-edge AI solutions to solve real-world problems.
 
-🤖 AI Engineering – Developing and integrating machine learning models and AI-powered solutions
-⚙️ Backend Development – Building high-performance APIs and microservices
-🔧 DevOps – Automating infrastructure and streamlining deployment pipelines
-🚀 AI Automation – Creating intelligent workflows that enhance productivity and efficiency
+**My work spans across:**
 
-I thrive in fast-paced environments and have participated in over 10 hackathons, where I've built innovative solutions under pressure and collaborated with diverse teams to turn ideas into working prototypes. These experiences have sharpened my ability to rapidly prototype, think creatively, and deliver results.
-I'm constantly exploring new technologies and methodologies, always looking for ways to learn, grow, and push the boundaries of what's possible with code. </p>
+- 🤖 **AI Engineering** – Developing and integrating machine learning models and AI-powered solutions
+- ⚙️ **Backend Development** – Building high-performance APIs and microservices
+- 🔧 **DevOps** – Automating infrastructure and streamlining deployment pipelines
+- 🚀 **AI Automation** – Creating intelligent workflows that enhance productivity and efficiency
+
+I thrive in fast-paced environments and have participated in over **10+ hackathons**, where I've built innovative solutions under pressure and collaborated with diverse teams to turn ideas into working prototypes. These experiences have sharpened my ability to rapidly prototype, think creatively, and deliver results.
+
+I'm constantly exploring new technologies and methodologies, always looking for ways to learn, grow, and push the boundaries of what's possible with code.
 
 - 📫 How to reach me **zubaydullo0022@gmail.com**
 
